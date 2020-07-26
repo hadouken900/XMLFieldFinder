@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+	<document>
+		<noteinfo unid="example1" abc="val1">aasdfasdfasbc</noteinfo>
+		<blabla>
+			<insideshit></insideshit>
+		</blabla>
+		<blabla2></blabla2>
+	</document>
+	<document>
+		<noteinfo unid="example2">basdfasdfbc</noteinfo>
+		<blabla></blabla>
+		<blabla2>
+			<jija val2="aaa"/>
+		</blabla2>
+	</document>
+	<document>
+		<noteinfo unid="example3">cbasdfasdfc</noteinfo>
+		<blabla></blabla>
+		<blabla2></blabla2>
+	</document>
+	<document>
+		<noteinfo unid="example4">dbasdfasdfc</noteinfo>
+		<blabla></blabla>
+		<blabla2></blabla2>
+	</document>
+</book>
