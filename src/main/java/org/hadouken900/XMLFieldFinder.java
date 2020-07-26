@@ -15,7 +15,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 /*
-Поиск элемента document и всех его подэлементов во всех файлах xml, которые лежат в текущей директории.
+Поиск элемента FieldToFind и всех его подэлементов во всех файлах xml, которые лежат в текущей директории.
 Для каждого файла xml создает папку с названием аттрибута unid поля noteinfo и в этой папке создает xml файлы содержащие результаты поиска
  */
 public class XMLFieldFinder {
